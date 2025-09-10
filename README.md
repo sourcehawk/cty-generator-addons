@@ -2,7 +2,7 @@
 
 Small add-on for cty that parses custom doc tags from your Go CRD types and generates HTML for it on the CTY style. 
 
-> [!WARNING]️ Note on authorship: many parts of this repository were written with the assistance of AI and have not been
+> [!CAUTION]️ Note on authorship: many parts of this repository were written with the assistance of AI and have not been
 > tested. Please review carefully and treat this as community-supported. 
 
 section with Conditions and 
